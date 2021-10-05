@@ -1,0 +1,7 @@
+mysql> create database birthdays;
+mysql> use birthdays;
+create table data(name varchar(20), birthday varchar(4), number varchar(10);
+insert into data values("sreedhar","2303","81XXXXXXXX");
+insert into data values("sureeth","1410","63xxxxxxxx");
+insert into data values("shanmugam","0609","94xxxxxxxx");
+insert into data values("dharmesh","0510","82xxxxxxxx");
