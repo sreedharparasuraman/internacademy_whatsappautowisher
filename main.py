@@ -18,4 +18,4 @@ input("Press enter to start wish. Make sure to connect internet.")
 for i in list1:
         a='+91'+i[2]
         b='Happy birthday to you'+i[0]
-        pywhatkit.sendwhatmsg(a,b,22,36)
+        pywhatkit.sendwhatmsg(a,b,00,00)
